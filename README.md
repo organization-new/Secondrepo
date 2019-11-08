@@ -1,2 +1,2 @@
 # Secondrepo
-Today i have created secondrepo.
+Here you can add description that how repo works.
